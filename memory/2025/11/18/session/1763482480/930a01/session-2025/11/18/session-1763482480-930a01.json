@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": 1763482480.060448,
+    "type": "run_metadata",
+    "text": "Started new session with input: What is the current weather in Bangalore at 2025-11-18T16:14:40.060526",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-11-18T21:44:40.061138",
+      "step": 0
+    }
+  }
+]

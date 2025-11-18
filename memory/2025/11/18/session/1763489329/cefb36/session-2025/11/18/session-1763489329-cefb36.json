@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": 1763489329.969244,
+    "type": "run_metadata",
+    "text": "Started new session with input: what is the current tempreture of Banglore? at 2025-11-18T18:08:49.969248",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-11-18T23:38:49.969434",
+      "step": 0
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": 1763482509.765963,
+    "type": "run_metadata",
+    "text": "Started new session with input: What is the current weather in New York?\u001b[D at 2025-11-18T16:15:09.765966",
+    "tool_name": null,
+    "tool_args": null,
+    "tool_result": null,
+    "final_answer": null,
+    "tags": [
+      "run_start"
+    ],
+    "success": null,
+    "metadata": {
+      "start_time": "2025-11-18T21:45:09.766367",
+      "step": 0
+    }
+  }
+]
